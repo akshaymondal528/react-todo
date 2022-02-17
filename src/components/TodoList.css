@@ -1,0 +1,19 @@
+.todo_list {
+  margin-top: 2rem;
+}
+
+.todo_list__items {
+  min-width: 25rem;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 3px;
+  background: #e6e6e6;
+  box-shadow: 5px 5px 8px #888888, -5px -5px 8px #ffffff;
+}
+
+h3 {
+  padding: 0.3rem 1rem;
+  color: #2e2e2ee1;
+}
